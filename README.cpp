@@ -3,7 +3,6 @@
 #include "stdafx.h"
 #include "iostream"
 #include "string"
-#include "cctype"
 
 using namespace std;
 
@@ -34,8 +33,6 @@ int main()
 	if (a == b) cout << "1" << endl;
 	else cout << "0" << endl;
 	
-	metka :
-
 	system("pause");
 	return 0;
 }
